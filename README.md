@@ -126,10 +126,3 @@ I welcome feedback, suggestions, and networking opportunities with fellow data p
 
 ---
 
-## 📌 Tags
-
-`Power BI` `Data Analytics` `Business Intelligence` `Dashboard Design` `Data Visualization` `DAX` `Power Query` `Retail Analytics` `Sales Analytics` `Business Analytics`
-
-### #️⃣ Hashtags
-
-#PowerBI #DataAnalytics #DataAnalyst #BusinessIntelligence #DashboardDesign #DataVisualization #DAX #PowerQuery #Analytics #DataDriven #BusinessAnalytics #LinkedInProjects #PortfolioProject #RetailAnalytics #SalesAnalytics #PowerBIDashboard #OpenToWork #Hiring
